@@ -1,1 +1,1 @@
-# Smart Manufacturing Machines Efficiency Prediction with GITOPS, AgroCD and Jenkins 
+# Smart Manufacturing Machines Efficiency Prediction with GITOPS, ArgoCD and Jenkins 
