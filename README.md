@@ -1,5 +1,5 @@
 
-# Hotel Booking Cancellation Prediction - **Exploratory Data Analysis**
+# Hotel Booking Cancellation Prediction
 
 ### Dataset Source [Kaggle](https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset)
 
